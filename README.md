@@ -1,8 +1,8 @@
 <!-- Profile Header -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile!;Flutter+Developer+%7C+Mobile+Engineer;Hi+there!+I'm+Shinnakronkit;Call+me+Bentley!%C2%A0" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile!;Flutter+Developer+%7C+Mobile+Engineer;Hi+there!+I'm+Shinnakronkit;Call+me+Bentley!%C2%A0" alt="Typing SVG" />
+</a>
 </p>
 
 <p align="center">
