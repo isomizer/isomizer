@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Hi+there!+I'm+Shinnakronkit+Narkasen;Flutter+Developer+%7C+Mobile+Engineer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=%20Hi+there!+I'm+Shinnakronkit+Narkasen;Flutter+Developer+%7C+Mobile+Engineer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 <p align="center">
