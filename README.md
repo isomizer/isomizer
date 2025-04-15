@@ -44,10 +44,39 @@
 
 ## 💼 Experience
 
-- 🌟 3+ years as a Flutter Developer
-- 🏢 Software Engineer in research industry
-- 💡 Skilled in mobile and backend development
-- 🛢️ Database: SQL Server, MySQL
+### 💼 Software Engineer @ Tri Petch IT Solutions Co., Ltd.
+**Full-time | Jul 2022 – Present | Thailand**
+
+- 🚀 Developed and released Android & iOS apps, ensuring smooth user experiences.
+- 🛠️ Migrated vehicle and insurance pages from WebView to Flutter native for better performance and maintainability.
+- ✨ Built advanced features like 'Remove Insurance' & 'New Excellency' to enhance app usability.
+- 📊 Monitored app performance & errors with Datadog, resolving issues quickly as part of on-call rotation.
+- 👨‍🏫 Mentored interns on project development and best practices.
+- 📚 Self-learned Clean Architecture, SOLID, Riverpod, GraphQL; focused on communication and problem-solving.
+
+> Always striving to grow as a developer, teammate, and leader.
+
+---
+
+### 🌟 Flutter Developer
+**3+ years of hands-on experience**
+
+- 🏗️ Built and maintained multiple cross-platform mobile apps.
+- 🤝 Collaborated with teams in the research industry.
+- 💡 Skilled in mobile & backend development (SQL Server, MySQL).
+
+---
+
+### ⚛️ Quantum Developer Intern @ NECTEC
+**National Electronics and Computer Technology Center**  
+_Aug 2020 – May 2021 | Thailand_
+
+- 🧬 Researched quantum computing theory and algorithms (Grover’s algorithm, SAT, TSP).
+- 🔍 Applied quantum solutions to complex CS problems: Boolean satisfiability & Traveling Salesman Problem.
+- 💻 Enhanced software to support more transit points, improving limitations of previous versions.
+- ☁️ Simulated quantum algorithms under real-world constraints using quantum cloud systems.
+
+> Project funded by YSTP scholarship. Helped other students and researchers understand/apply quantum computation.
 
 ---
 
