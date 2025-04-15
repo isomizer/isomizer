@@ -61,4 +61,15 @@
   <a href="https://www.linkedin.com/in/shinnakronkit-narkasen/"><img src="https://img.shields.io/badge/LinkedIn-shinnakronkit--narkasen-blue?logo=linkedin&logoColor=white"/></a>
 </p>
 
+---
+
+## 📱 Follow my Socials
+
+<p>
+  <a href="https://www.facebook.com/isomizer"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/></a>
+  <a href="https://www.twitch.tv/isomizer"><img src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white"/></a>
+  <a href="https://www.instagram.com/isomizer/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
+  <a href="https://www.tiktok.com/@isomizer"><img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white"/></a>
+</p>
+
 <!-- Feel free to customize this README further! -->
