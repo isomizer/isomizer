@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-- 🧑‍💻 **Flutter Developer** with 3+ years of experience
+- 🧑‍💻 **Flutter Developer** with 2+ years of experience
 - ⚡ Passionate about building beautiful mobile apps
 - 🎓 Bachelor's degree in Engineering from Thammasat University
 - 🏢 Experienced Software Engineer in the research industry
