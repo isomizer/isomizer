@@ -58,15 +58,6 @@
 
 ---
 
-### 🌟 Flutter Developer
-**3+ years of hands-on experience**
-
-- 🏗️ Built and maintained multiple cross-platform mobile apps.
-- 🤝 Collaborated with teams in the research industry.
-- 💡 Skilled in mobile & backend development (SQL Server, MySQL).
-
----
-
 ### ⚛️ Quantum Developer Intern @ NECTEC
 **National Electronics and Computer Technology Center**  
 _Aug 2020 – May 2021 | Thailand_
