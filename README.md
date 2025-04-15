@@ -10,6 +10,12 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat-square"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Main%20Job-Expert%20Flutter%20Developer-02569B?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter Developer Badge"/>
+  <br>
+  <b>🚀 Turning ideas into beautiful apps with Flutter!</b>
+</p>
+
 ---
 
 ## 👋 About Me
